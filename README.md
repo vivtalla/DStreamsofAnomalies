@@ -1,7 +1,7 @@
 EECS731-AnomalyDetection
 ==============================
 
-Anomaly Detection Project for my EECS 731 course
+This project is used for my anomaly detection project in my EECS 731 course. The purpose of the assignment is practice building various models to predict anomalies in a dataset. For this project I will be using twitter volume data on the ticker symbol for apple. The data is taken from https://www.kaggle.com/boltzmannbrain/nab.
 
 Project Organization
 ------------
